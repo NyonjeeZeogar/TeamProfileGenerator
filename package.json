@@ -5,20 +5,20 @@
   "scripts": {
     "test": "jest --verbose test"
   },
-  "author":"",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "handlebars":"^4.7.3",
-    "inquirer":"^7.0.5",
-    "jest":"^25.1.0",
-    "open":"^7.0.2",
-    "path":"^0.12.7",
-    "puppeteer":"^2.1.1",
-    "util":"^0.12.2"
+    "handlebars": "^4.7.3",
+    "inquirer": "^7.0.5",
+    "jest": "^25.1.0",
+    "open": "^7.0.2",
+    "path": "^0.12.7",
+    "puppeteer": "^2.1.1",
+    "util": "^0.12.2"
   },
   "devDependencies": {},
-  "description": "1. The application will prompt the user for information about the team manager and team members." ,
+  "description": "1. The application will prompt the user for information about the team manager and team members.",
   "directories": {
     "test": "test"
   },
